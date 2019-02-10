@@ -43,3 +43,10 @@ HackerRank 30DaysofCode Challenge
 
 ### [Challenge Name: Day 19: Interfaces](https://www.hackerrank.com/snippets/d012aa99-2131-4eb5-a4df-2b2aa49ea4d3/kapilchaudharys-snippet-from-day-19-interfaces)
 
+### [Challenge Name: Day 20: Sorting](https://www.hackerrank.com/snippets/8583debe-705c-405e-b0c7-0e5b570b23ca/kapilchaudharys-snippet-from-day-20-sorting)
+
+### [Challenge Name: Day 21: Generics](https://www.hackerrank.com/snippets/8b754850-6c73-4b67-abd2-003f75c868d2/kapilchaudharys-snippet-from-day-21-generics)
+
+### [Challenge Name: Day 22: Binary Search Trees](https://www.hackerrank.com/snippets/5249433d-b365-4a29-86ab-d362cda7b19b/kapilchaudharys-snippet-from-day-22-binary-search-trees)
+
+### [Challenge Name: Day 23: BST Level-Order Traversal](https://www.hackerrank.com/snippets/f8c51d2a-c8d8-4dee-92e8-26e35057a3f6/kapilchaudharys-snippet-from-day-23-bst-level-order-traversal)
