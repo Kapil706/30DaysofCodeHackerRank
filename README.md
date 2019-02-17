@@ -50,3 +50,15 @@ HackerRank 30DaysofCode Challenge
 ### [Challenge Name: Day 22: Binary Search Trees](https://www.hackerrank.com/snippets/5249433d-b365-4a29-86ab-d362cda7b19b/kapilchaudharys-snippet-from-day-22-binary-search-trees)
 
 ### [Challenge Name: Day 23: BST Level-Order Traversal](https://www.hackerrank.com/snippets/f8c51d2a-c8d8-4dee-92e8-26e35057a3f6/kapilchaudharys-snippet-from-day-23-bst-level-order-traversal)
+
+### [Challenge Name: Day 24: More Linked Lists](https://www.hackerrank.com/snippets/2879ff81-dfbd-4e2a-87e4-9fcad9d77783/kapilchaudharys-snippet-from-day-24-more-linked-lists)
+
+### [Challenge Name: Day 25: Running Time and Complexity](https://www.hackerrank.com/snippets/7a4ab32e-3433-4ec7-9123-662a2e76fbcf/kapilchaudharys-snippet-from-day-25-running-time-and-complexity)
+
+### [Challenge Name: Day 26: Nested Logic](https://www.hackerrank.com/snippets/258b7c36-724f-4ec9-959c-449f26063c47/kapilchaudharys-snippet-from-day-26-nested-logic)
+
+### [Challenge Name: Day 27: Testing](https://www.hackerrank.com/snippets/825a6a08-1d30-40d8-9a6a-2f1d99b8f2b7/kapilchaudharys-snippet-from-day-27-testing)
+
+### [Challenge Name: Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/snippets/c8e83c1b-0259-4c41-8626-854a8d9ae59b/kapilchaudharys-snippet-from-day-28-regex-patterns-and-intro-to-databases)
+
+### [Challenge Name: Day 29: Bitwise AND](https://www.hackerrank.com/snippets/1264fd61-2025-47cc-9a3f-16a5caff5800/kapilchaudharys-snippet-from-day-29-bitwise-and)
